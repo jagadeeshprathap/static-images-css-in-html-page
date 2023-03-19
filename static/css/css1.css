@@ -1,0 +1,33 @@
+body
+{
+    background-color: gold;
+    border-style: solid;
+
+}
+h1
+{
+    color: blue;
+    font: size 40px;;
+    font-style: italic;
+
+}
+#one
+
+{
+
+ max-width:400px;
+max-height:400px;
+
+}
+#two
+
+{
+ border-image: url(border.png)20% round;
+ border: 10px solid transparent;
+ max-width: 400px;
+ max-height: 400px;
+}
+#three
+{
+    font-size: 40px;
+}
